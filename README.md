@@ -44,6 +44,7 @@ For all the functionalities, they are used the following libraries:
 - `NewPing` — for ultrasonic sensor management
 - `MPU6050` — for gyroscopic data
 - `Pixy2` — for PixyCam 2 integration
+- `Wire.h` — for I2C communication
 
 ---
 
