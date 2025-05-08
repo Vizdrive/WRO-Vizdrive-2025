@@ -117,6 +117,6 @@ For all the functionalities, they are used the following libraries:
 | Ultrasonic Right | Trigger: 16, Echo: 17 |
 | PixyCam 2 | SPI interface (Default) |
 | MPU6050 | I2C (SDA: 20, SCL: 21) |
-| Bottom color-sensor | 22, 23, 24, 25, out: 26 |
+| Bottom color-sensor | I2C SDA: 20, SCL: 21 |
 | Left color-sensor | 22, 23, 24, 25, out: 26 |
 | Left color-sensor | 22, 23, 24, 25, out: 26 |
