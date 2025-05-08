@@ -70,7 +70,7 @@ For all the functionalities, they are used the following libraries:
 - Uses **PixyCam 2** to detect colored objects.
 - **Red objects → Evade to the right**
 - **Green objects → Evade to the left**
-- Size-based decision to determine proximity of objects.
+- Size and coordinates-based decision to determine proximity and location of objects.
 
 ### Distance Detection
 
