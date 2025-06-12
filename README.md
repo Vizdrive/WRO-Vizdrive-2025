@@ -109,14 +109,14 @@ For all the functionalities, they are used the following libraries:
 | Component | Arduino Pin |
 |---------------|-------------|
 | Wheel Encoder | 2 |
-| DC Motor | INA: 3, INB: 4 |
-| Servo Motor | 9 |
-| Ultrasonic Front-Left | Trigger: 10, Echo: 11 |
-| Ultrasonic Front-Right | Trigger: 12, Echo: 13 |
-| Ultrasonic Left | Trigger: 14, Echo: 15 |
-| Ultrasonic Right | Trigger: 16, Echo: 17 |
+| DC Motor Driver | INA: 4, INB: 5 |
+| Servo Motor | 6 |
+| Ultrasonic Front-Left | Trigger: 37, Echo: 35 |
+| Ultrasonic Front-Right | Trigger: 33, Echo: A15 |
+| Ultrasonic Left | Trigger: A9, Echo: A11 |
+| Ultrasonic Right | Trigger: 47, Echo: 28 |
 | PixyCam 2 | SPI interface (Default) |
 | MPU6050 | I2C (SDA: 20, SCL: 21) |
 | Bottom color-sensor | I2C SDA: 20, SCL: 21 |
-| Left color-sensor | 22, 23, 24, 25, out: 26 |
-| Left color-sensor | 22, 23, 24, 25, out: 26 |
+| Left color-sensor | 51, 49, 50, 52, out: 48 |
+| Right color-sensor | 10, 8, 16, 14, out: 18 |
